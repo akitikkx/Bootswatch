@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bootswatch Themes</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_theme_detail">ThemeDetailActivity</string>
+</resources>
